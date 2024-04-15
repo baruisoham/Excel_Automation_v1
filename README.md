@@ -12,3 +12,5 @@ Run the `make-pivot-table.py` on `supermarket_sales.xlsx` to generate `pivot_tab
 
 Then run the executable file generated, input `month` and name of the file that has pivot table, here `pivot_table.xlsx`
 
+File generated with the name `report_monthName`
+
